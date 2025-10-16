@@ -1,2 +1,1 @@
-# social_media
-my social media
+Thsi is about the social media
